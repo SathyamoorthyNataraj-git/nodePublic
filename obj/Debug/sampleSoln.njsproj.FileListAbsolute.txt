@@ -1,0 +1,3 @@
+C:\Users\sathyamoorthy.n\source\repos\SathyamoorthyNataraj-git\nodePublic\obj\Debug\sampleSoln.njsproj.AssemblyReference.cache
+C:\Users\sathyamoorthy.n\source\repos\SathyamoorthyNataraj-git\nodePublic\obj\Debug\sampleSoln.njsproj.CoreCompileInputs.cache
+C:\Users\sathyamoorthy.n\source\repos\SathyamoorthyNataraj-git\nodePublic\bin\Microsoft.NodejsTools.WebRole.dll

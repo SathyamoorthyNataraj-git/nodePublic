@@ -1,0 +1,9 @@
+{
+  "name": "sample-soln",
+  "version": "0.0.0",
+  "description": "sampleSoln",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
